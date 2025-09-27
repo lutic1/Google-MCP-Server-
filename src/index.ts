@@ -208,7 +208,7 @@ async function main() {
 
   const config: GeminiConfig = {
     apiKey,
-    model: "gemini-2.5-pro-exp-03-25", // Updated to use the specific model you requested
+    model: "gemini-2.5-flash", // Using Gemini 2.5 Flash model
   };
 
   const server = new GeminiMCPServer(config);
