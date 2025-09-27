@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 async function testSpecificModel() {
-  const apiKey = 'AIzaSyAFXhDuhWiAlsGHQJtmKDbHT1_CjULaC-U';
+  const apiKey = 'put api key here';
   const modelName = 'gemini-2.5-pro-exp-03-25';
   
   console.log('🔑 Testing with API Key:', apiKey.substring(0, 20) + '...');
