@@ -2,6 +2,10 @@
 
 MCP server for integrating Gemini Pro API with Claude Desktop.
 
+<a href="https://glama.ai/mcp/servers/@lutic1/Google-MCP-Server-">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@lutic1/Google-MCP-Server-/badge" alt="Gemini Pro Server MCP server" />
+</a>
+
 ## Setup Instructions
 
 1. **Install dependencies:**
@@ -57,4 +61,3 @@ MCP server for integrating Gemini Pro API with Claude Desktop.
 Once connected, you can use commands like:
 - "Generate text using Gemini about [topic]"
 - "Analyze this image using Gemini"
-
